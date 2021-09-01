@@ -1,0 +1,3 @@
+- Criar a classe CPF
+- Definir a função Create()
+- Definir a função Request()
